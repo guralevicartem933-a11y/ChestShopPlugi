@@ -1,0 +1,8 @@
+name: ChestShop
+version: 1.0
+main: me.yourname.chestshop.ChestShopPlugin
+api-version: '1.21'
+commands:
+  createshop:
+    description: Створити магазин у скрині
+    usage: /createshop
